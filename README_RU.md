@@ -133,31 +133,9 @@ server-analysis/
 ├── README.md                   # Документация
 ├── LICENSE                     # Лицензия
 └── examples/                   # Примеры использования
-    ├── sample_output.log       # Пример вывода
     └── quick_check.sh          # Упрощенная версия
 ```
 
 ## **Лицензия**
 
 MIT License - смотрите файл [LICENSE](LICENSE) для деталей.
-
-## **Вклад в проект**
-
-1. Форкните репозиторий
-2. Создайте feature branch (`git checkout -b feature/amazing-feature`)
-3. Закоммитьте изменения (`git commit -m 'Add amazing feature'`)
-4. Запушьте branch (`git push origin feature/amazing-feature`)
-5. Откройте Pull Request
-
-## **Авторы**
-
-- Ваше Имя - *Первоначальная работа*
-
-## **Благодарности**
-
-- Сообществу Linux за вдохновение
-- Всем контрибьюторам проекта
-
----
-
-**⭐ Если этот скрипт был полезен, поставьте звезду на GitHub!**
