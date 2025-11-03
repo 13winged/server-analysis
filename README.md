@@ -65,7 +65,7 @@ chmod +x quick_check.sh
 ### **Быстрый старт**
 ```bash
 # Скачать скрипт
-wget -O server_analysis.sh https://raw.githubusercontent.com/your-username/server-analysis/main/server_analysis.sh
+wget -O server_analysis.sh https://raw.githubusercontent.com/13winged/server-analysis/main/server_analysis.sh
 
 # Дать права на выполнение
 chmod +x server_analysis.sh
@@ -77,7 +77,7 @@ chmod +x server_analysis.sh
 ### **Установка как системная утилита**
 ```bash
 # Скачать и установить в PATH
-sudo wget -O /usr/local/bin/server-analysis https://raw.githubusercontent.com/your-username/server-analysis/main/server_analysis.sh
+sudo wget -O /usr/local/bin/server-analysis https://raw.githubusercontent.com/13winged/server-analysis/main/server_analysis.sh
 sudo chmod +x /usr/local/bin/server-analysis
 
 # Теперь можно запускать из любого места
