@@ -70,11 +70,8 @@ chmod +x quick_check.sh
 
 ### **Quick Start**
 ```bash
-<<<<<<< HEAD
 # Download the script
 =======
-# Скачать скрипт
->>>>>>> 6b5ffd0611e51d8bf1001b3ed921967dd04c3574
 wget -O server_analysis.sh https://raw.githubusercontent.com/13winged/server-analysis/main/server_analysis.sh
 
 # Make it executable
@@ -86,11 +83,7 @@ chmod +x server_analysis.sh
 
 ### **Install as System Utility**
 ```bash
-<<<<<<< HEAD
 # Download and install to PATH
-=======
-# Скачать и установить в PATH
->>>>>>> 6b5ffd0611e51d8bf1001b3ed921967dd04c3574
 sudo wget -O /usr/local/bin/server-analysis https://raw.githubusercontent.com/13winged/server-analysis/main/server_analysis.sh
 sudo chmod +x /usr/local/bin/server-analysis
 
@@ -143,25 +136,17 @@ The script creates a detailed log in the format:
 
 ```
 server-analysis/
-<<<<<<< HEAD
 ├── server_analysis.sh          # Main script
 ├── quick_check.sh              # Quick version
 ├── README.md                   # Documentation (English)
 ├── README_RU.md                # Documentation (Russian)
 ├── LICENSE                     # License
 └── examples/                   # Usage examples
-=======
-├── server_analysis.sh          # Основной скрипт
-├── README.md                   # Документация
-├── LICENSE                     # Лицензия
-└── examples/                   # Примеры использования
-    └── quick_check.sh          # Упрощенная версия
->>>>>>> 6b5ffd0611e51d8bf1001b3ed921967dd04c3574
+    └── quick_check.sh          # Lite version
 ```
 
 ## **Script Comparison**
 
-<<<<<<< HEAD
 | Feature | server_analysis.sh | quick_check.sh |
 |---------|-------------------|----------------|
 | Execution Time | 1-2 minutes | 10-30 seconds |
@@ -174,5 +159,3 @@ server-analysis/
 
 MIT License - see [LICENSE](LICENSE) file for details.
 =======
-MIT License - смотрите файл [LICENSE](LICENSE) для деталей.
->>>>>>> 6b5ffd0611e51d8bf1001b3ed921967dd04c3574
