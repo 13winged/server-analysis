@@ -139,10 +139,6 @@ MIT License - смотрите файл [LICENSE](LICENSE) для деталей
 4. Запушьте branch (`git push origin feature/amazing-feature`)
 5. Откройте Pull Request
 
-## **Авторы**
-
-- Ваше Имя - *Первоначальная работа*
-
 ## **Благодарности**
 
 - Сообществу Linux за вдохновение
